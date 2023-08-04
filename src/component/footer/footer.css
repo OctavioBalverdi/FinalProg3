@@ -1,0 +1,12 @@
+.Footer-Container {
+    background: rgb(71, 181, 255);
+    background: linear-gradient(
+      90deg,
+      rgb(96, 113, 124) 30%,
+      rgb(15, 33, 59) 45%,
+      rgb(31, 85, 119) 100%
+    );
+    color: var(--main-color-light);
+  height: 36vh;
+  }
+  
